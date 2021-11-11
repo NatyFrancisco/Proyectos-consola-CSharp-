@@ -1,0 +1,7 @@
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\Arreglos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\Arreglos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\Arreglos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\Arreglos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\Arreglos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\Arreglos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\Arreglos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
