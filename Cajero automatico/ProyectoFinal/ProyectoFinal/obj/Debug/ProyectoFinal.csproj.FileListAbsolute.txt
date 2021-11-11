@@ -1,0 +1,14 @@
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Intel\Documents\Cursos\Introduccion a la programacion\Semana 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Intel\Downloads\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Intel\Downloads\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Intel\Downloads\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Intel\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Intel\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Intel\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

@@ -1,0 +1,19 @@
+<Primera tarjeta>
+
+ tarjetaBanreserva = 123456789
+ clave1 = 1111
+ monto1 = 20000
+
+
+<Segunda tarjeta>
+
+ tarjetaPopular = 213456789
+ clave2 = 2222
+ monto2 = 30000
+
+
+<Tercera tarjeta>
+
+ tarjetaBHD = 312456789
+ monto3 = 40000
+  clave3 = 3333
